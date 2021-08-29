@@ -1,6 +1,6 @@
 ## welcome to binbows 96
 
-You can use the [editor on GitHub](https://github.com/michaeIsoft/binbows96/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+check back in 8 years to see if i have created binbows 96
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
