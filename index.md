@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## welcome to binbows 96
 
 You can use the [editor on GitHub](https://github.com/michaeIsoft/binbows96/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
